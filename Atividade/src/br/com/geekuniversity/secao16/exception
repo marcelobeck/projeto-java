@@ -1,0 +1,35 @@
+Quando falamos em exceções no Java, a gente tem que compreender da seguinte forma:
+
+Existem dois grupos de exceções:
+
+1- Checked Exceptions: (Exceções Checadas) - Menos Perigosas (Essas exceções pode prever na criação do software)
+- Exception (É o pai de todas as exceções) no catch pode colocar ele só.
+- IOException (Erro de Entrada e Saída)
+- SQLException (Erro de acesso ao banco de dados)
+
+As exceções do tipo "checadas" fazem com que o programa não seja executado
+até que a determinada exceção seja tratada.
+
+2- Unchecked ExcQuando falamos em exceções no Java, a gente tem que compreender da seguinte forma:
+
+Existem dois grupos de exceções:
+
+1- Checked Exceptions: (Exceções Checadas) - Menos Perigosas (Essas exceções pode prever na criação do software)
+- Exception (É o pai de todas as exceções) no catch pode colocar ele só.
+- IOException (Erro de Entrada e Saída)
+- SQLException (Erro de acesso ao banco de dados)
+
+As exceções do tipo "checadas" fazem com que o programa não seja executado
+até que a determinada exceção seja tratada.
+
+2- Unchecked Exception: (Exceções Não Checadas) - Mais perigosas (Essas exceções só ocorre na execução do Software)
+- RuntimeException (Erro de tempo de execução)
+- NullPointerException (Ponteiros nulos)
+- ArrayOutOfBoundsException (Tentar fazer acesso ao uma posição que não existe)
+
+As exceções do tipo "não checadas" só acontecem durante a execução do programa
+e desta forma não temos como saber, em grande parte dos casos, onde ela
+podera ocorrer.
+
+
+// Windows é um computador que não recomendado para desenvolvimento de Softwares

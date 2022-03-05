@@ -1,0 +1,6 @@
+Aula 4: O ciclo de vida da linguagem Java
+
+Java Versões LTS -> Suporte até tal data (Usar sem as versões LTS)
+Versões Fitiors -> para teste (por exemplo, se funcionar eles implementam nas versões LTS)
+Versão atual do momento do Java é 17
+Obs: Só atualizar o Java quando sair um outra versão LTS

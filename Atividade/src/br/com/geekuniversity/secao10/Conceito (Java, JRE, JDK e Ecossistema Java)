@@ -1,0 +1,12 @@
+Linguagem Java quando cria uma aplicação roda em cima da JRE
+JVM está dentro do JRE
+JVM (Aplicação roda aqui dentro)
+Quando cria um programa e compila, gera um Bytecode, roda
+em cima da JVM, não no sistema operacional da maquina.
+Não confundir
+Java != JavaScript é totalmente diferente
+JVM está dentro do JRE
+JVM (Aplicação roda aqui dentro)
+Quando cria um programa e compila, gera um Bytecode, roda
+em cima da JVM, não no sistema operacional da maquina.
+Não confundir
