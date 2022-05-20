@@ -4,7 +4,7 @@ public class Programa4 {
     // If, else, else if
     public static void main(String[] args) {
 
-        // Tipo de variável (Declarando e inicialiazando a variável)
+        // Tipo de variável (Declarando e inicializando a variável)
         int numero = 1;
 
         if (numero > 5) {
