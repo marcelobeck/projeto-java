@@ -18,7 +18,7 @@ public class Aluno {
         return outro.getNome().equals(this.nome);
     }
 
-    //Implementação da classe Objetc
+    //Implementação da classe Objetc.
     @Override
     public String toString() {
         return super.toString();
